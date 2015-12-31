@@ -1,0 +1,165 @@
+
+img {
+  height: 92px;
+  width: 272px;
+}
+
+.logo {
+  height: 94px;
+  width: 450px;
+  margin: 150px auto;
+  text-align: center;
+  
+}
+
+.form {
+  height:130px;
+  width:450px;
+  margin: -140px auto;
+  
+}
+
+#searchbox {
+  margin: 20px 0px 0px 0px;
+  height: 30px;
+}
+
+#box {
+  height: 30px;
+  width: 445px;
+}
+
+#buttons {
+  margin: 40px;
+  text-align: center;
+}
+
+#googlesearch, #feelinglucky {
+  height: 35px;
+  text-align: center;
+  color: #666666;
+  font-weight: bold;
+  font-size: 12.5px;
+  border: none;
+  background-color: #e6e6e6;
+  padding-left: 17px;
+  padding-right: 17px;
+}
+
+#googlesearch {
+  margin-right:2px;
+}
+
+#feelinglucky {
+  margin-left:2px;
+}
+
+#home {
+  height: 13px;
+  width: 13px;
+  border: none;
+  margin-right: 3px;
+}
+
+#homepage {
+  text-decoration: none;
+  font-size:12px;
+  font-family:Arial;
+  top:-4px;
+}
+
+.hplink {
+  width:445px;
+  height:20px;
+  text-align: center;
+  margin: 140px auto;
+
+}
+#allcontent {
+  margin: auto;
+  padding: 0;
+  position: relative;
+}
+.bottombar {
+  width:100%;
+  height:35px;
+  background-color: #e6e6e6;
+  position: fixed;
+  margin: auto;
+  bottom: 0px;
+}
+
+
+#botrightrow {
+  right: 0;
+  bottom: 0;
+  position: absolute;
+
+}
+#botleftrow {  
+  background-color: #e6e6e6;
+  width: 230px;
+  left: -13px;
+  bottom:0;
+  position: absolute;
+
+}
+
+#botlefttable {
+  height: 35px;
+  margin-left:10px;
+}
+#botrighttable {
+  height: 35px;
+  margin-right:10px;
+ 
+}
+
+.bottombar a {
+  text-decoration: none;
+  font-family: Arial;
+  font-size:13px;
+  color: #666666;
+}
+.bottombar a:hover{
+  text-decoration: underline;
+}
+
+.bottombar td {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#toprighttable img {
+  width: 25px;
+  height: 25px;
+}
+
+#toprighttable td div {
+  background-color: #8B008B;
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  text-align: center;
+  border: 1px solid purple;
+  
+}
+
+#toprighttable td div p {
+  margin-top: 7px;
+  color: white;
+  font-family: arial
+}
+
+#toprighttable td {
+  padding-left: 7px;
+  padding-right: 7px;
+  font-family: Arial;
+  font-size: 13px
+}
+
+.toprightbar {
+  position: absolute;
+  top:-140px;
+  right: 0;
+}
